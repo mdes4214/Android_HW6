@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW6</string>
+
+    <string name="speed_text">點點速度</string>
+    <string name="amount_text">點點數量</string>
+    <string name="time_text">計時(秒)</string>
+    <string name="start_text">開始遊戲</string>
+    <string name="score_text">獲得分數：</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
